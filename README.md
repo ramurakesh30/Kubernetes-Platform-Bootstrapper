@@ -472,27 +472,6 @@ Potential future improvements:
 
 ---
 
-# Screenshots
-
-Add screenshots here.
-
-Example:
-
-```markdown
-## Platform Architecture
-
-![Architecture](screenshots/platform-architecture.png)
-
-## Grafana Dashboard
-
-![Grafana](screenshots/grafana-dashboard.png)
-
-## ArgoCD
-
-![ArgoCD](screenshots/argocd-dashboard.png)
-```
-
----
 
 # Author
 
