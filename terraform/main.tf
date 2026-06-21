@@ -25,3 +25,33 @@ module "ingress" {
   source = "../modules/ingress"
 
 }
+
+module "monitoring" {
+
+  source = "../modules/monitoring"
+
+}
+
+module "logging" {
+
+  source = "../modules/logging"
+
+}
+
+module "argocd" {
+
+  source = "../modules/argocd"
+
+}
+
+module "external_secrets" {
+
+  source = "../modules/external-secrets"
+
+}
+
+module "kyverno" {
+
+  source = "../modules/kyverno"
+
+}
