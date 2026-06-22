@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 
 Internet
@@ -12,3 +13,4 @@ PublicSubnetB --> NAT
 
 NAT --> PrivateSubnetA
 NAT --> PrivateSubnetB
+```
