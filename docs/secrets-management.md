@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 
 SecretsManager --> ExternalSecrets
@@ -5,3 +6,4 @@ SecretsManager --> ExternalSecrets
 ExternalSecrets --> KubernetesSecret
 
 KubernetesSecret --> Application
+```
