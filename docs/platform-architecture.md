@@ -26,7 +26,8 @@ graph TB
             Prometheus[Prometheus]
             Grafana[Grafana]
             AlertManager[AlertManager] 
-            Loki[Loki] Promtail[Promtail] 
+            Loki[Loki]
+            Promtail[Promtail] 
             ExternalSecrets[External Secrets] 
             Kyverno[Kyverno] 
         end 
