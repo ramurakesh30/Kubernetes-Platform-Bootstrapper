@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 
 Application --> Promtail
@@ -5,3 +6,4 @@ Application --> Promtail
 Promtail --> Loki
 
 Grafana --> Loki
+```
