@@ -1,3 +1,4 @@
+```mermaid
 graph TB
     Developer[Developer]
     GitHub[GitHub Repository]
@@ -51,3 +52,4 @@ graph TB
         Ingress --> SampleApp 
         ExternalSecrets --> SampleApp 
         Kyverno --> SampleApp
+```
