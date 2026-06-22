@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 
 Developer --> GitPush
@@ -9,3 +10,4 @@ GitHub --> ArgoCD
 ArgoCD --> Kubernetes
 
 Kubernetes --> Nginx
+```
