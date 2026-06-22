@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 
 Internet
@@ -9,3 +10,4 @@ IngressController --> App1
 IngressController --> App2
 
 IngressController --> App3
+```
